@@ -72,7 +72,7 @@ export default function Hero() {
                   fontWeight="bolder"
                   fontFamily="Quicksand, -apple-system"
                 >
-                  WE:
+                  WE
                 </Text>
                 <Text>TARGET:</Text>
               </Stack>
