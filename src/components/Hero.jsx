@@ -139,7 +139,7 @@ export default function Hero() {
             fontWeight={300}
             fontSize={useBreakpointValue({ base: "md", md: "md", lg: "md" })}
           >
-            <Box fontSize="8px" as="span">
+            <Box fontSize="8px" as="span" pl="5">
               *image not representative of product
             </Box>
           </Text>
