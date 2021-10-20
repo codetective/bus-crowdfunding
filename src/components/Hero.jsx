@@ -72,6 +72,24 @@ export default function Hero() {
                   fontWeight="bolder"
                   fontFamily="Quicksand, -apple-system"
                 >
+                  WE:
+                </Text>
+                <Text>TARGET:</Text>
+              </Stack>
+            </Center>
+            <Center
+              w="84.11px"
+              h="79.15"
+              rounded="lg"
+              border="2px solid coral"
+              color="white"
+            >
+              <Stack p="3" spacing="0" align="center">
+                <Text
+                  fontSize="22px"
+                  fontWeight="bolder"
+                  fontFamily="Quicksand, -apple-system"
+                >
                   ₦5M
                 </Text>
                 <Text>GOAL</Text>
