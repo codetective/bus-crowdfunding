@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Lato|Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+body {
+  background: #f7fafc !important;
+}
+
+button:focus {
+  box-shadow: none !important;
+  outline: none !important;
+}
